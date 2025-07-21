@@ -1,4 +1,4 @@
-Sou um desenvolvedor **Back-End Java** apaixonado por tecnologia, resolução de problemas e arquitetura de sistemas escaláveis. Formado em **Análise e Desenvolvimento de Sistemas**, já tenho experiência prática com Java, Spring Boot, microserviços e AWS — além de projetos acadêmicos que exploram até teoria do caos para detecção de falhas em motores 🚀.
+Formado em **Análise e Desenvolvimento de Sistemas**, sou um desenvolvedor **Back-End Java** apaixonado por tecnologia, resolução de problemas e arquitetura de sistemas escaláveis.  Já tenho experiência prática com Java, Spring Boot, microserviços e AWS — além de projetos acadêmicos que exploram até teoria do caos para detecção de falhas em motores 🚀. 
 
 ## 🧠 Principais Competências
 - 🔧 Java • Spring Boot • SQL • React • APIs REST
