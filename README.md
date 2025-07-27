@@ -1,5 +1,4 @@
-Formado em **Análise e Desenvolvimento de Sistemas**, sou um desenvolvedor **Back-End Java** apaixonado por tecnologia, resolução de problemas e arquitetura de sistemas escaláveis.  Já tenho experiência prática com Java, Spring Boot, microserviços e AWS — além de projetos acadêmicos que exploram até teoria do caos para detecção de falhas em motores 🚀. 
-
+Formado em **Análise e Desenvolvimento de Sistemas**, desenvolvedor **Full Stack**, interessado em resolução de problemas e arquitetura de sistemas escaláveis. Já tenho experiência prática com Java, Spring Boot, microserviços e AWS — além de projetos acadêmicos que exploram até teoria do caos para detecção de falhas em motores 🚀.
 
 
 ## 📫 Como me encontrar
