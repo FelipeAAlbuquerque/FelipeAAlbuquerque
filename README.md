@@ -2,8 +2,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**, desenvolvedor **Full Stac
 
 
 ## 📫 Como me encontrar
-- 📱 +55 83 99628-9388
-- 📧 albuquerque.felipeferreira@gmail.com | kikoalbuquerque02@gmail.com
+- 📧 albuquerque.felipeferreira@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/felipealvesalbuquerque)
 
 ---
